@@ -1,0 +1,18 @@
+Project: Telecom Customer Churn Analysis
+
+Key Insights:
+1. Churn is highest among month-to-month customers, with a churn rate of ~43%, indicating low commitment as a major risk factor.
+2. Fiber optic customers show significantly higher churn compared to DSL and non-internet users, suggesting pricing or service expectation issues.
+3. Customers in their first year have the highest churn rate (~48%), highlighting the importance of early engagement and onboarding.
+4. Longer tenure and longer contracts are strongly associated with lower churn rates.
+
+Business Implications:
+- Encourage long-term contracts through incentives.
+- Review pricing and value proposition for fiber optic services.
+- Improve customer onboarding and early-life retention strategies.
+
+Recommendations:
+1. Introduce discounts or loyalty benefits for customers transitioning from month-to-month to annual contracts.
+2. Reassess fiber optic pricing or service reliability to reduce expectation gaps.
+3. Implement proactive engagement programs during the first 6–12 months of customer tenure.
+
