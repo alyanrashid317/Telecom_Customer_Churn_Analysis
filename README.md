@@ -1,8 +1,13 @@
-Telecom Customer Churn Analysis: Data-Driven Retention Strategy
+📊 Telecom Customer Churn Analysis: Data-Driven Retention Strategy
 📌 Executive Summary
-Customer churn is a critical metric for telecommunications providers. This project identifies the primary drivers of attrition and provides actionable, data-backed recommendations to reduce churn. By analyzing customer demographics, contract types, and service usage, I identified a high-risk segment in the first 12 months of tenure and developed strategies to increase long-term customer lifetime value (LTV).
+Customer churn is a critical metric for telecommunications providers. This project identifies the primary drivers of attrition and provides actionable, data-backed recommendations to reduce churn. By analyzing customer demographics, contract types, and service usage, I identified a high-risk segment in the first 12 months of tenure and developed strategies to increase long-term Customer Lifetime Value (LTV).
 
-📊 Key Insights & Business Impact
+📈 Dashboard Preview
+<p align="center">
+<img src="https://github.com/alyanrashid317/Telecom_Customer_Churn_Analysis/blob/main/Insights/Telecom_Customer_Churn_Analysis_Dashboard.png?raw=true" alt="PowerBI Dashboard Preview" width="800">
+</p>
+
+🔍 Key Insights & Business Impact
 1. Contract Risk: The "Month-to-Month" Trap
 Finding: Month-to-month subscribers exhibit a 43% churn rate, representing the highest risk segment.
 
@@ -30,7 +35,7 @@ Proactive "Early-Life" Engagement: Implement an automated 3-6-9 month "Customer 
 🛠️ Tech Stack & Methodology
 Data Extraction & Cleaning: SQL (Joins, CTEs, Window Functions) for preparing the raw dataset.
 
-Exploratory Data Analysis (EDA): Python (Pandas, Seaborn) to identify correlations and distribution anomalies.
+Exploratory Data Analysis (EDA): Python (Pandas, Seaborn, Matplotlib) to identify correlations and distribution anomalies.
 
 Interactive Visualization: PowerBI for creating dynamic dashboards that allow stakeholders to drill down into specific customer segments.
 
@@ -43,4 +48,9 @@ Python/: Jupyter Notebooks/Scripts for EDA and statistical modeling.
 
 PowerBI/: .pbix file containing the interactive executive dashboard.
 
-Insights/: Documentation of detailed findings.
+Insights/: Documentation of detailed findings and screenshots.
+
+## 🚀 How to Replicate
+1. **Database:** Run the scripts in `/SQL` to prepare the schema.
+2. **Analysis:** Open the `/Python` scripts to view the statistical breakdown.
+3. **Visualization:** Open the `/PowerBI` file to interact with the live dashboard.
